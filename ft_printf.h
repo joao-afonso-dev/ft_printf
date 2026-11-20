@@ -6,13 +6,13 @@
 /*   By: joaooli2 <joaooli2@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/17 16:33:33 by joaooli2          #+#    #+#             */
-/*   Updated: 2026/11/17 16:33:35 by joaooli2         ###   ########.fr       */
+/*   Updated: 2026/11/19 17:06:49 by joaooli2         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFTPRINTF.H
 # define LIBFTPRINTF.H
 
-
+int printf(const char *format, ...);
 
 #endif
